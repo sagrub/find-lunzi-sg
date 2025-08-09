@@ -1,6 +1,8 @@
 # find-lunzi-sg
 Find Lunzi
 
+![Lunzi](./Lunzi.PNG)
+
 ## How to find Lunzi?
 The BioGeocaching - Find Lunzi loop is a scavenger hunt. By
 answering the questions, you will figure out GPS coordinates
