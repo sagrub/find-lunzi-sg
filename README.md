@@ -21,4 +21,22 @@ you have read all the signs and answered the questions.
 ## Questions per Station
 [Question 1](./question/question_01.md)
 
-## Answers per Staion
+## Answers per Station
+
+### Table
+
+### Code
+The following formula calculates variable $b$.
+
+$$ \frac{a}{b}=10 $$
+
+###
+You should set up a constant `a=20` and the following snippet code.
+
+```
+a = 20
+b = 10
+c = a * b
+```
+
+
