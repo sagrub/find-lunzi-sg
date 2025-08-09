@@ -1,11 +1,13 @@
 # find-lunzi-sg
 Find Lunzi
+Author: [WasserCluster](https://wcl.ac.at/en/)
 
 ![Lunzi](./Lunzi.PNG)
 
 ## How to find Lunzi?
-The BioGeocaching - Find Lunzi loop is a scavenger hunt. By
-answering the questions, you will figure out GPS coordinates
+The BioGeocaching - Find Lunzi loop is a scavenger hunt. 
+
+By answering the questions, you will figure out GPS coordinates
 that will lead you to Lunzi`s hiding place. You can find the
 questions on the inside of this brochure. If you follow the route
 around the lake below, you will come across various information
